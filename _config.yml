@@ -80,7 +80,7 @@ publication_category:
   # books:
   #   title: 'Books'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Published'
   manuscripts:
     title: 'Under Review'
 
