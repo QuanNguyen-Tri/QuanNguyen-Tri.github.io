@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Quan Nguyen-Tri / My Homepage"
+title                    : "Quan Nguyen-Tri"
 title_separator          : "-"
 name                     : &name "Quan Nguyen-Tri"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ publication_category:
   conferences:
     title: 'Published'
   manuscripts:
-    title: 'Under Review'
+    title: 'In Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
