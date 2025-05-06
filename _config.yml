@@ -80,9 +80,9 @@ publication_category:
   # books:
   #   title: 'Books'    
   conferences:
-    title: 'Published'
+    title: '🔥 Published'
   manuscripts:
-    title: 'In Review'
+    title: '📝 In Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
