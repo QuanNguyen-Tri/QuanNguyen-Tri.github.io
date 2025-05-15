@@ -29,16 +29,15 @@ My research experience includes the following areas:
 
 🗞️ News
 ======
-
-* [*May 01, 2025*] Our new paper, [Provably Improving Generalization of Few-Shot Models with Synthetic Data](http://QuanNguyen-Tri.github.io/files/6937_Provably_Improving_Genera.pdf), has been accepted to [ICML 2025](https://icml.cc/).
+* [*May 15, 2025*] Our new paper, Diffusion Directed Acyclic Transformer for Non-Autoregressive Machine Translation, has been accepted to [ACL 2025 Main](https://2025.aclweb.org/)
+* [*May 01, 2025*] Our new paper, [Provably Improving Generalization of Few-Shot Models with Synthetic Data](http://QuanNguyen-Tri.github.io/files/6937_Provably_Improving_Genera.pdf), has been accepted to [ICML 2025 poster](https://icml.cc/).
 * [*Apr 24, 2025*] I presented our [poster](http://QuanNguyen-Tri.github.io/files/DPaI_poster.pdf) for the paper [DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle](https://openreview.net/pdf?id=hvLBTpiDt3) at [ICLR 2025](https://iclr.cc/).
-* [*Mar 05, 2025*] Our new paper, [Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems](https://openreview.net/pdf?id=EVqlVjvlt8), has been accepted to [Agentic AI for Scientific Discovery](https://iclragenticai.github.io/)
-* [*Jan 22, 2025*] Our new paper, [DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle](https://openreview.net/pdf?id=hvLBTpiDt3), has been accepted to [ICLR 2025](https://iclr.cc/).
+* [*Mar 05, 2025*] Our new paper, [Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems](https://openreview.net/pdf?id=EVqlVjvlt8), has been accepted to [ICLR 2025 Workshop AgenticAI Oral](https://iclragenticai.github.io/)
+* [*Jan 22, 2025*] Our new paper, [DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle](https://openreview.net/pdf?id=hvLBTpiDt3), has been accepted to [ICLR 2025 poster](https://iclr.cc/).
 
 🧬 About Myself 
 ======
 
-Supervisor 
-======
+
 
 
