@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Quan Nguyen-Tri"
+title                    : "Biography"
 title_separator          : "-"
 name                     : &name "Quan Nguyen-Tri"
 description              : &description "personal description"
