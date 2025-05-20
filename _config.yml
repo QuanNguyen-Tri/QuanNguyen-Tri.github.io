@@ -25,9 +25,9 @@ author:
   avatar           : "DSC00001 copy.jpg"
   name             : "Quan Nguyen-Tri"
   pronouns         : # example: "she/her"  
-  bio              : "AI Resident at FPT AI Residency"
+  bio              : "AI Resident at [FPT AI Residency](https://wp.fpt-aic.com/ai-residency/)"
   location         : "Hanoi, Vietnam 🇻🇳"
-  employer         : "FPT AI Residency"
+  employer         : "[FPT AI Residency](https://wp.fpt-aic.com/ai-residency/)"
   uri              : # URL
   email            : "nguyentriquan99@gmail.com" 
 
@@ -82,7 +82,7 @@ publication_category:
   conferences:
     title: '🔥 Published'
   manuscripts:
-    title: '📝 In Review'
+    title: '📝 Preprint'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
