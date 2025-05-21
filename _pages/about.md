@@ -31,6 +31,7 @@ My research experience includes the following areas:
 ======
 * [*May 15, 2025*] Our new paper, [Diffusion Directed Acyclic Transformer for Non-Autoregressive Machine Translation](http://QuanNguyen-Tri.github.io/diffusion-dat-nat.pdf), has been accepted to [ACL 2025 Main](https://2025.aclweb.org/)
 * [*May 01, 2025*] Our new paper, [Provably Improving Generalization of Few-Shot Models with Synthetic Data](http://QuanNguyen-Tri.github.io/files/Synthetic_data_provably_improve_generalization_and_robustness.pdf), has been accepted to [ICML 2025 poster](https://icml.cc/).
+* [*Apr 27, 2025*] Our paper, [Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems](https://openreview.net/pdf?id=EVqlVjvlt8), received the Best Paper Award - [Honourable Mention](http://QuanNguyen-Tri.github.io/files/honorable_mention_llm_powered_neural_solvers.pdf) at the [ICLR 2025 Workshop AgenticAI for Science](https://iclragenticai.github.io/)
 * [*Apr 24, 2025*] I presented our [poster](http://QuanNguyen-Tri.github.io/files/DPaI_poster.pdf) for the paper [DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle](https://openreview.net/pdf?id=hvLBTpiDt3) at [ICLR 2025](https://iclr.cc/).
 * [*Mar 05, 2025*] Our new paper, [Large Language Models powered Neural Solvers for Generalized Vehicle Routing Problems](https://openreview.net/pdf?id=EVqlVjvlt8), has been accepted to [ICLR 2025 Workshop AgenticAI Oral](https://iclragenticai.github.io/)
 * [*Jan 22, 2025*] Our new paper, [DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle](https://openreview.net/pdf?id=hvLBTpiDt3), has been accepted to [ICLR 2025 poster](https://iclr.cc/).
@@ -40,7 +41,7 @@ My research experience includes the following areas:
 
 🏅Awards
 ======
-* 2025, Best Paper Award [Honourable Mention](http://QuanNguyen-Tri.github.io/files/honorable_mention_llm_powered_neural_solvers.pdf) at [ICLR 2025 Workshop AgenticAI for Science](https://iclragenticai.github.io/)
+* 2025, Best Paper Award - [Honourable Mention](http://QuanNguyen-Tri.github.io/files/honorable_mention_llm_powered_neural_solvers.pdf) at [ICLR 2025 Workshop AgenticAI for Science](https://iclragenticai.github.io/)
 * 2021, [Vingroup Innovation Foundation](https://vinif.org/en/sponsor-programs/postgraduate-scholarships/) Master’s scholarship for graduate students 
 * 2017, Excellent score in the Vietnam National high school graduation exam, ranking among the top 100 out of 879,705 candidates.
 * 2016, Second prize in the Provincial Excellent Student in Chemistry competition
