@@ -33,23 +33,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Skills:
+  * Strong creative thinking with a proven ability to propose novel research ideas
+  * Experienced in deriving mathematical proofs and conducting theoretical analysis
+  * Fluent in reading, interpreting, and writing academic papers
+* Programming Skills:
+  * Proficient in programming languages: Python, C/C++, Java
+  * Experienced with deep learning frameworks: PyTorch, TensorFlow
+  * Skilled in reproducing results from academic papers and implementing deep architectural modifications for novel research ideas
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -58,6 +54,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2021, Vingroup Innovation Foundation Master’s scholarship for graduate students
+* 2017, Excellent score in the Vietnam National high school graduation exam, ranking among the top 100 out of 879,705 candidates.
+* 2016, Second prize in the Provincial Excellent Student in Chemistry competition
