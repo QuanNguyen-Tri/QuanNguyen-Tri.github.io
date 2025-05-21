@@ -38,6 +38,10 @@ My research experience includes the following areas:
 🧬 About Myself 
 ======
 
-
-
+🏅Awards
+======
+* 2025, Best Paper Award [Honourable Mention](http://QuanNguyen-Tri.github.io/files/honorable_mention_llm_powered_neural_solvers.pdf) at [ICLR 2025 Workshop AgenticAI for Science](https://iclragenticai.github.io/)
+* 2021, [Vingroup Innovation Foundation](https://vinif.org/en/sponsor-programs/postgraduate-scholarships/) Master’s scholarship for graduate students 
+* 2017, Excellent score in the Vietnam National high school graduation exam, ranking among the top 100 out of 879,705 candidates.
+* 2016, Second prize in the Provincial Excellent Student in Chemistry competition
 
