@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Hanoi University of Science and Technology, 2025
+* B.S. in Computer Science, Hanoi University of Science and Technology, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023: AI Resident
+  * FPT AI Residency
+  * Duties included: conducting research on Non-Autoregressive Language Models, Diffusion Models, and State Space Models.
+  * Supervisor: [Dr. Hoang Thanh-Tung](https://scholar.google.com/citations?user=xZU08d0AAAAJ)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Research Assistant
+  * Hanoi University of Science and Technology
+  * Duties included: conducting research on Pruning at Initialization, Dynamics Sparse Training, and Neural Architecture Search.
+  * Supervisors: [Associate Prof. Khoat Than](https://users.soict.hust.edu.vn/khoattq/), [Professor Long Tran-Thanh](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/), [Professor Hongkai Wen](https://hongkaiw.github.io/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019: Research Assistant
+  * Hanoi University of Science and Technology
+  * Duties included: conducting research in Continual Learning, Few-Shot Learning, Meta Learning, and Self-Supervised Learning.
+  * Supervisors: [Dr. Linh Ngo Van](https://scholar.google.com/citations?user=tZ78MoQAAAAJ), [Associate Prof. Khoat Than](https://users.soict.hust.edu.vn/khoattq/)
   
 Skills
 ======
