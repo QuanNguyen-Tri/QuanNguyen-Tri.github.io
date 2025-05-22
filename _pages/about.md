@@ -15,17 +15,12 @@ I am currently an AI Resident at [FPT AI Residency](https://wp.fpt-aic.com/ai-re
 I am still in the early stages of my academic journey, where I actively seek opportunities for guidance that allow me to delve deeply into intellectually intriguing and highly impactful researches. Currently, my research spans a wide range of topics within the Efficient AI domain, where I focus on enhancing the training efficiency of deep learning models and reducing the inference latency of language models. These innovations aim to lower the computational cost of training and inference, making AI systems more accessible and deployable in resource-constrained environments.
 
 My research experience includes the following areas:
-* Text-to-Image Diffusion Models
-* Diffusion Language Models
-* Non-Autoregressive Transformer
-* State Space Models
-* Neural Networks Compression
-* Pruning at Initialization
-* Neural Architecture Search
-* Knowledge Distillation
-* Continual Learning
-* Few-shot Learning
-* Meta Learning
+
+* Foundation Models: Text-to-Image Diffusion Models, Diffusion Language Models, Non-Autoregressive Transformers, State Space Models.
+
+* Model Pruning & Compression: Pruning at Initialization, Dynamic Sparse Training, Neural Architecture Search.
+
+* Efficient Learning with Limited Resources: Knowledge Distillation, Continual Learning, Few-shot Learning, Meta Learning.
 
 🗞️ News
 ======
@@ -39,10 +34,17 @@ My research experience includes the following areas:
 🧬 About Myself 
 ======
 
+Some Facts About Me:
+
+* I've loved science since I was a kid — especially Quantum Physics, Dinosaurs, and National Geographic.
+* I have ADHD, which makes it hard for me to focus on just one thing at a time.
+* I’m passionate about music. Having a favorite song playing while I work significantly boosts my performance.
+* If life gives me lemons, I’ll happily make (and drink) lemon juice.
+
 🏅Awards
 ======
-* 2025, Best Paper Award - [Honourable Mention](http://QuanNguyen-Tri.github.io/files/honorable_mention_llm_powered_neural_solvers.pdf) at [ICLR 2025 Workshop AgenticAI for Science](https://iclragenticai.github.io/)
-* 2021, [Vingroup Innovation Foundation](https://vinif.org/en/sponsor-programs/postgraduate-scholarships/) Master’s scholarship for graduate students 
-* 2017, Excellent score in the Vietnam National high school graduation exam, ranking among the top 100 out of 879,705 candidates.
-* 2016, Second prize in the Provincial Excellent Student in Chemistry competition
+* 2025, Best Paper Award - [Honourable Mention](http://QuanNguyen-Tri.github.io/files/honorable_mention_llm_powered_neural_solvers.pdf), [ICLR 2025 Workshop AgenticAI for Science](https://iclragenticai.github.io/)
+* 2021, Master’s scholarship for graduate students, [Vingroup Innovation Foundation](https://vinif.org/en/sponsor-programs/postgraduate-scholarships/) 
+* 2017, Excellent score, ranking among the top 100 out of 879,705 candidates, the Vietnam National high school graduation exam.
+* 2016, Second prize, the Provincial Excellent Student in Chemistry competition.
 
