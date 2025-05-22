@@ -39,7 +39,7 @@ Some Facts About Me:
 * I've loved science since I was a kid — especially Quantum Physics, Dinosaurs, and National Geographic.
 * I have ADHD, which makes it hard for me to focus on just one thing at a time.
 * I’m passionate about music. Having a favorite song playing while I work significantly boosts my performance.
-* If life gives me lemons, I’ll happily make (and drink) lemon juice.
+* If life hands me lemons, I’ll learn to enjoy the taste of lemon juice.
 
 🏅Awards
 ======
